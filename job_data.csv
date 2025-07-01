@@ -1,0 +1,101 @@
+Phase,resource_utilization,job_id,Owner,expected_duration,Planned Start,Planned End,start_time,end_time,progress
+Initiation,Reconciliation Service,Task 1 - Reconciliation Service,Security,4,01-12-2025,05-12-2025,,,Not Started
+Design,Payment Processing,Task 2 - Payment Processing,HR,4,11-04-2025,15-04-2025,11-04-2025,,In Progress
+Design,Internal Payment Engine,Task 3 - Internal Payment Engine,Business Analyst,1,16-06-2025,17-06-2025,16-06-2025,,In Progress
+Design,Reconciliation Service,Task 4 - Reconciliation Service,HR,2,13-06-2025,15-06-2025,13-06-2025,15-06-2025,Done
+Initiation,Reconciliation Service,Task 5 - Reconciliation Service,DevOps Engineer,2,29-07-2025,31-07-2025,29-07-2025,31-07-2025,Done
+Execution,Payment Processing,Task 6 - Payment Processing,Security,3,16-07-2025,19-07-2025,16-07-2025,19-07-2025,Done
+Execution,Reporting & Analytics,Task 7 - Reporting & Analytics,Business Analyst,2,10-09-2025,12-09-2025,,,Not Started
+Execution,Payment Processing,Task 8 - Payment Processing,QA Lead,4,22-06-2025,26-06-2025,22-06-2025,,In Progress
+Closure,Payment Processing,Task 9 - Payment Processing,UI/UX Designer,3,25-04-2025,28-04-2025,25-04-2025,28-04-2025,Done
+Planning,Reconciliation Service,Task 10 - Reconciliation Service,DevOps Engineer,3,17-07-2025,20-07-2025,17-07-2025,,In Progress
+Design,Reporting & Analytics,Task 11 - Reporting & Analytics,Project Manager,1,05-05-2025,06-05-2025,05-05-2025,,In Progress
+Closure,Customer Payment Portal,Task 12 - Customer Payment Portal,Security,5,19-06-2025,24-06-2025,,,Not Started
+Testing,Payment Processing,Task 13 - Payment Processing,Project Manager,1,22-08-2025,23-08-2025,22-08-2025,23-08-2025,Done
+Planning,Reconciliation Service,Task 14 - Reconciliation Service,Business Analyst,2,18-10-2025,20-10-2025,18-10-2025,20-10-2025,Done
+Closure,Reconciliation Service,Task 15 - Reconciliation Service,QA Lead,3,04-06-2025,07-06-2025,04-06-2025,07-06-2025,Done
+Initiation,Integration & Data Migration,Task 16 - Integration & Data Migration,Security,4,19-09-2025,23-09-2025,,,Not Started
+Closure,Reporting & Analytics,Task 17 - Reporting & Analytics,Business Analyst,5,29-05-2025,03-06-2025,,,Not Started
+Initiation,Integration & Data Migration,Task 18 - Integration & Data Migration,PMO,4,04-12-2025,08-12-2025,04-12-2025,,In Progress
+Assessment,Payment Processing,Task 19 - Payment Processing,UI/UX Designer,5,15-06-2025,20-06-2025,,,Not Started
+Initiation,Admin & User Management,Task 20 - Admin & User Management,Business Analyst,4,09-09-2025,13-09-2025,,,Not Started
+Planning,Customer Payment Portal,Task 21 - Customer Payment Portal,Business Analyst,5,22-04-2025,27-04-2025,,,Not Started
+Testing,Mandate Management,Task 22 - Mandate Management,HR,2,29-12-2025,31-12-2025,29-12-2025,,In Progress
+Design,Reporting & Analytics,Task 23 - Reporting & Analytics,PMO,4,20-04-2025,24-04-2025,20-04-2025,,In Progress
+Initiation,Admin & User Management,Task 24 - Admin & User Management,Project Manager,3,30-08-2025,02-09-2025,30-08-2025,,In Progress
+Deployment,Reporting & Analytics,Task 25 - Reporting & Analytics,Business Analyst,5,03-12-2025,08-12-2025,03-12-2025,08-12-2025,Done
+Assessment,Mandate Management,Task 26 - Mandate Management,Project Manager,1,28-06-2025,29-06-2025,28-06-2025,29-06-2025,Done
+Execution,Reporting & Analytics,Task 27 - Reporting & Analytics,PMO,5,09-05-2025,14-05-2025,09-05-2025,,In Progress
+Execution,Admin & User Management,Task 28 - Admin & User Management,Business Analyst,2,11-09-2025,13-09-2025,11-09-2025,13-09-2025,Done
+Deployment,Integration & Data Migration,Task 29 - Integration & Data Migration,PMO,3,31-10-2025,03-11-2025,31-10-2025,,In Progress
+Testing,Internal Payment Engine,Task 30 - Internal Payment Engine,QA Lead,5,31-08-2025,05-09-2025,31-08-2025,05-09-2025,Done
+Planning,Internal Payment Engine,Task 31 - Internal Payment Engine,QA Lead,5,20-10-2025,25-10-2025,20-10-2025,,In Progress
+Execution,Integration & Data Migration,Task 32 - Integration & Data Migration,UI/UX Designer,4,07-04-2025,11-04-2025,07-04-2025,11-04-2025,Done
+Deployment,Customer Payment Portal,Task 33 - Customer Payment Portal,Business Analyst,1,06-10-2025,07-10-2025,06-10-2025,07-10-2025,Done
+Closure,Mandate Management,Task 34 - Mandate Management,Business Analyst,5,19-10-2025,24-10-2025,19-10-2025,24-10-2025,Done
+Initiation,Customer Payment Portal,Task 35 - Customer Payment Portal,QA Lead,2,16-05-2025,18-05-2025,16-05-2025,,In Progress
+Planning,Mandate Management,Task 36 - Mandate Management,QA Lead,1,25-07-2025,26-07-2025,,,Not Started
+Design,Reconciliation Service,Task 37 - Reconciliation Service,UI/UX Designer,4,17-11-2025,21-11-2025,17-11-2025,,In Progress
+Design,Reporting & Analytics,Task 38 - Reporting & Analytics,UI/UX Designer,2,15-04-2025,17-04-2025,15-04-2025,,In Progress
+Closure,Reconciliation Service,Task 39 - Reconciliation Service,Security,4,21-08-2025,25-08-2025,21-08-2025,,In Progress
+Testing,Reconciliation Service,Task 40 - Reconciliation Service,UI/UX Designer,3,06-05-2025,09-05-2025,06-05-2025,09-05-2025,Done
+Design,Mandate Management,Task 41 - Mandate Management,QA Lead,1,04-06-2025,05-06-2025,,,Not Started
+Deployment,Reconciliation Service,Task 42 - Reconciliation Service,DevOps Engineer,4,21-12-2025,25-12-2025,,,Not Started
+Execution,Internal Payment Engine,Task 43 - Internal Payment Engine,HR,1,09-06-2025,10-06-2025,09-06-2025,10-06-2025,Done
+Closure,Payment Processing,Task 44 - Payment Processing,QA Lead,2,16-09-2025,18-09-2025,,,Not Started
+Design,Integration & Data Migration,Task 45 - Integration & Data Migration,DevOps Engineer,4,03-10-2025,07-10-2025,,,Not Started
+Design,Mandate Management,Task 46 - Mandate Management,UI/UX Designer,5,01-05-2025,06-05-2025,01-05-2025,,In Progress
+Initiation,Internal Payment Engine,Task 47 - Internal Payment Engine,HR,1,15-06-2025,16-06-2025,,,Not Started
+Design,Admin & User Management,Task 48 - Admin & User Management,UI/UX Designer,5,31-08-2025,05-09-2025,,,Not Started
+Assessment,Admin & User Management,Task 49 - Admin & User Management,PMO,1,18-08-2025,19-08-2025,18-08-2025,,In Progress
+Assessment,Admin & User Management,Task 50 - Admin & User Management,UI/UX Designer,2,25-12-2025,27-12-2025,,,Not Started
+Initiation,Admin & User Management,Task 51 - Admin & User Management,Security,4,11-09-2025,15-09-2025,11-09-2025,15-09-2025,Done
+Planning,Admin & User Management,Task 52 - Admin & User Management,UI/UX Designer,4,11-10-2025,15-10-2025,11-10-2025,,In Progress
+Testing,Admin & User Management,Task 53 - Admin & User Management,Business Analyst,4,23-08-2025,27-08-2025,23-08-2025,,In Progress
+Assessment,Mandate Management,Task 54 - Mandate Management,QA Lead,4,29-04-2025,03-05-2025,29-04-2025,03-05-2025,Done
+Planning,Internal Payment Engine,Task 55 - Internal Payment Engine,PMO,2,07-12-2025,09-12-2025,,,Not Started
+Deployment,Admin & User Management,Task 56 - Admin & User Management,DevOps Engineer,1,27-10-2025,28-10-2025,27-10-2025,,In Progress
+Design,Payment Processing,Task 57 - Payment Processing,DevOps Engineer,3,05-08-2025,08-08-2025,,,Not Started
+Deployment,Internal Payment Engine,Task 58 - Internal Payment Engine,PMO,1,05-08-2025,06-08-2025,,,Not Started
+Assessment,Integration & Data Migration,Task 59 - Integration & Data Migration,DevOps Engineer,5,02-09-2025,07-09-2025,,,Not Started
+Deployment,Customer Payment Portal,Task 60 - Customer Payment Portal,HR,2,13-08-2025,15-08-2025,13-08-2025,15-08-2025,Done
+Closure,Payment Processing,Task 61 - Payment Processing,Project Manager,2,11-07-2025,13-07-2025,11-07-2025,,In Progress
+Initiation,Customer Payment Portal,Task 62 - Customer Payment Portal,QA Lead,4,14-08-2025,18-08-2025,14-08-2025,18-08-2025,Done
+Closure,Reporting & Analytics,Task 63 - Reporting & Analytics,DevOps Engineer,5,22-05-2025,27-05-2025,22-05-2025,27-05-2025,Done
+Execution,Internal Payment Engine,Task 64 - Internal Payment Engine,Business Analyst,5,19-09-2025,24-09-2025,19-09-2025,24-09-2025,Done
+Initiation,Internal Payment Engine,Task 65 - Internal Payment Engine,Business Analyst,4,25-09-2025,29-09-2025,25-09-2025,,In Progress
+Initiation,Payment Processing,Task 66 - Payment Processing,Business Analyst,4,06-12-2025,10-12-2025,,,Not Started
+Initiation,Reporting & Analytics,Task 67 - Reporting & Analytics,Security,4,06-07-2025,10-07-2025,06-07-2025,10-07-2025,Done
+Execution,Customer Payment Portal,Task 68 - Customer Payment Portal,HR,3,09-04-2025,12-04-2025,09-04-2025,,In Progress
+Planning,Internal Payment Engine,Task 69 - Internal Payment Engine,PMO,1,21-08-2025,22-08-2025,21-08-2025,,In Progress
+Planning,Reconciliation Service,Task 70 - Reconciliation Service,HR,2,25-06-2025,27-06-2025,25-06-2025,,In Progress
+Deployment,Customer Payment Portal,Task 71 - Customer Payment Portal,Business Analyst,2,12-09-2025,14-09-2025,12-09-2025,,In Progress
+Execution,Internal Payment Engine,Task 72 - Internal Payment Engine,DevOps Engineer,2,09-06-2025,11-06-2025,,,Not Started
+Deployment,Integration & Data Migration,Task 73 - Integration & Data Migration,Business Analyst,5,08-11-2025,13-11-2025,,,Not Started
+Planning,Internal Payment Engine,Task 74 - Internal Payment Engine,Project Manager,4,21-10-2025,25-10-2025,21-10-2025,25-10-2025,Done
+Assessment,Reconciliation Service,Task 75 - Reconciliation Service,DevOps Engineer,5,01-05-2025,06-05-2025,01-05-2025,,In Progress
+Initiation,Payment Processing,Task 76 - Payment Processing,PMO,3,04-11-2025,07-11-2025,,,Not Started
+Initiation,Reconciliation Service,Task 77 - Reconciliation Service,Security,3,14-07-2025,17-07-2025,14-07-2025,17-07-2025,Done
+Assessment,Payment Processing,Task 78 - Payment Processing,PMO,4,04-09-2025,08-09-2025,04-09-2025,,In Progress
+Design,Mandate Management,Task 79 - Mandate Management,UI/UX Designer,3,05-05-2025,08-05-2025,,,Not Started
+Deployment,Reporting & Analytics,Task 80 - Reporting & Analytics,Project Manager,5,21-09-2025,26-09-2025,,,Not Started
+Deployment,Internal Payment Engine,Task 81 - Internal Payment Engine,PMO,5,27-11-2025,02-12-2025,27-11-2025,,In Progress
+Closure,Admin & User Management,Task 82 - Admin & User Management,Project Manager,2,01-10-2025,03-10-2025,,,Not Started
+Assessment,Admin & User Management,Task 83 - Admin & User Management,HR,4,11-08-2025,15-08-2025,11-08-2025,15-08-2025,Done
+Testing,Admin & User Management,Task 84 - Admin & User Management,Project Manager,1,06-06-2025,07-06-2025,,,Not Started
+Initiation,Payment Processing,Task 85 - Payment Processing,DevOps Engineer,2,02-07-2025,04-07-2025,02-07-2025,04-07-2025,Done
+Assessment,Reporting & Analytics,Task 86 - Reporting & Analytics,Project Manager,2,07-11-2025,09-11-2025,07-11-2025,09-11-2025,Done
+Testing,Customer Payment Portal,Task 87 - Customer Payment Portal,Business Analyst,2,09-09-2025,11-09-2025,,,Not Started
+Closure,Reporting & Analytics,Task 88 - Reporting & Analytics,QA Lead,3,06-11-2025,09-11-2025,,,Not Started
+Testing,Reporting & Analytics,Task 89 - Reporting & Analytics,UI/UX Designer,4,12-07-2025,16-07-2025,12-07-2025,16-07-2025,Done
+Initiation,Admin & User Management,Task 90 - Admin & User Management,DevOps Engineer,3,24-05-2025,27-05-2025,24-05-2025,27-05-2025,Done
+Assessment,Reporting & Analytics,Task 91 - Reporting & Analytics,Business Analyst,5,30-10-2025,04-11-2025,30-10-2025,,In Progress
+Deployment,Admin & User Management,Task 92 - Admin & User Management,UI/UX Designer,4,19-07-2025,23-07-2025,,,Not Started
+Testing,Integration & Data Migration,Task 93 - Integration & Data Migration,Project Manager,5,26-10-2025,31-10-2025,26-10-2025,,In Progress
+Testing,Customer Payment Portal,Task 94 - Customer Payment Portal,PMO,5,11-12-2025,16-12-2025,11-12-2025,,In Progress
+Design,Admin & User Management,Task 95 - Admin & User Management,PMO,3,06-06-2025,09-06-2025,,,Not Started
+Planning,Mandate Management,Task 96 - Mandate Management,Security,4,19-10-2025,23-10-2025,19-10-2025,23-10-2025,Done
+Deployment,Payment Processing,Task 97 - Payment Processing,PMO,4,16-08-2025,20-08-2025,,,Not Started
+Initiation,Integration & Data Migration,Task 98 - Integration & Data Migration,Project Manager,1,22-10-2025,23-10-2025,22-10-2025,,In Progress
+Testing,Customer Payment Portal,Task 99 - Customer Payment Portal,UI/UX Designer,4,02-11-2025,06-11-2025,02-11-2025,06-11-2025,Done
+Execution,Admin & User Management,Task 100 - Admin & User Management,HR,2,25-08-2025,27-08-2025,25-08-2025,,In Progress
